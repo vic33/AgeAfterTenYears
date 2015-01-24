@@ -1,0 +1,5 @@
+D:\Projects\site\Operators and Expressions\10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\10.PointInsideACircleAndOutsideOfARectangle.exe.config
+D:\Projects\site\Operators and Expressions\10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\10.PointInsideACircleAndOutsideOfARectangle.exe
+D:\Projects\site\Operators and Expressions\10.PointInsideACircleAndOutsideOfARectangle\bin\Debug\10.PointInsideACircleAndOutsideOfARectangle.pdb
+D:\Projects\site\Operators and Expressions\10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\10.PointInsideACircleAndOutsideOfARectangle.exe
+D:\Projects\site\Operators and Expressions\10.PointInsideACircleAndOutsideOfARectangle\obj\Debug\10.PointInsideACircleAndOutsideOfARectangle.pdb

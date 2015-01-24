@@ -1,0 +1,6 @@
+D:\Projects\site\Operators and Expressions\01.Odd or Even Integers\bin\Debug\01.Odd or Even Integers.exe.config
+D:\Projects\site\Operators and Expressions\01.Odd or Even Integers\bin\Debug\01.Odd or Even Integers.exe
+D:\Projects\site\Operators and Expressions\01.Odd or Even Integers\bin\Debug\01.Odd or Even Integers.pdb
+D:\Projects\site\Operators and Expressions\01.Odd or Even Integers\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+D:\Projects\site\Operators and Expressions\01.Odd or Even Integers\obj\Debug\01.Odd or Even Integers.exe
+D:\Projects\site\Operators and Expressions\01.Odd or Even Integers\obj\Debug\01.Odd or Even Integers.pdb

@@ -1,0 +1,5 @@
+D:\Projects\site\Operators and Expressions\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe.config
+D:\Projects\site\Operators and Expressions\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe
+D:\Projects\site\Operators and Expressions\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.pdb
+D:\Projects\site\Operators and Expressions\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.exe
+D:\Projects\site\Operators and Expressions\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.pdb

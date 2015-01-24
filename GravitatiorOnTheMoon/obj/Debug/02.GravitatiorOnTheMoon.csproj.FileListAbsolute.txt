@@ -1,0 +1,5 @@
+D:\Projects\site\Operators and Expressions\GravitatiorOnTheMoon\bin\Debug\GravitatiorOnTheMoon.exe.config
+D:\Projects\site\Operators and Expressions\GravitatiorOnTheMoon\bin\Debug\GravitatiorOnTheMoon.exe
+D:\Projects\site\Operators and Expressions\GravitatiorOnTheMoon\bin\Debug\GravitatiorOnTheMoon.pdb
+D:\Projects\site\Operators and Expressions\GravitatiorOnTheMoon\obj\Debug\GravitatiorOnTheMoon.exe
+D:\Projects\site\Operators and Expressions\GravitatiorOnTheMoon\obj\Debug\GravitatiorOnTheMoon.pdb

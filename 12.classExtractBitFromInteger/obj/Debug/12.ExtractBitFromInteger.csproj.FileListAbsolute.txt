@@ -1,0 +1,5 @@
+D:\Projects\site\Operators and Expressions\12.classExtractBitFromInteger\bin\Debug\12.classExtractBitFromInteger.exe.config
+D:\Projects\site\Operators and Expressions\12.classExtractBitFromInteger\bin\Debug\12.classExtractBitFromInteger.exe
+D:\Projects\site\Operators and Expressions\12.classExtractBitFromInteger\bin\Debug\12.classExtractBitFromInteger.pdb
+D:\Projects\site\Operators and Expressions\12.classExtractBitFromInteger\obj\Debug\12.classExtractBitFromInteger.exe
+D:\Projects\site\Operators and Expressions\12.classExtractBitFromInteger\obj\Debug\12.classExtractBitFromInteger.pdb

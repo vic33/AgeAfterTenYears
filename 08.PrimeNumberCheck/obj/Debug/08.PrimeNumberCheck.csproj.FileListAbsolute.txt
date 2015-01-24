@@ -1,0 +1,5 @@
+D:\Projects\site\Operators and Expressions\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+D:\Projects\site\Operators and Expressions\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+D:\Projects\site\Operators and Expressions\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+D:\Projects\site\Operators and Expressions\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+D:\Projects\site\Operators and Expressions\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb

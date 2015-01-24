@@ -1,0 +1,5 @@
+D:\Projects\site\Operators and Expressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
+D:\Projects\site\Operators and Expressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
+D:\Projects\site\Operators and Expressions\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
+D:\Projects\site\Operators and Expressions\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
+D:\Projects\site\Operators and Expressions\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

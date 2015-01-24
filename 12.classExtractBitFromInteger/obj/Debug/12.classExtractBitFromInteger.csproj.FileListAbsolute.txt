@@ -1,0 +1,1 @@
+D:\Projects\site\Operators and Expressions\12.classExtractBitFromInteger\bin\Debug\12.classExtractBitFromInteger.exe.config

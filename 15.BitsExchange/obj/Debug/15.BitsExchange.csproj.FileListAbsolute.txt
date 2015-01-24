@@ -1,0 +1,5 @@
+D:\Projects\site\Operators and Expressions\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+D:\Projects\site\Operators and Expressions\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+D:\Projects\site\Operators and Expressions\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+D:\Projects\site\Operators and Expressions\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+D:\Projects\site\Operators and Expressions\15.BitsExchange\obj\Debug\15.BitsExchange.pdb
